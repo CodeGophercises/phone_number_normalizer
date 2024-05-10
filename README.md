@@ -1,1 +1,1 @@
-Sample app using `database/sql` to normalise phone_numbers in database.
+A program that will normalize an SQL table of phone numbers into a single format.
